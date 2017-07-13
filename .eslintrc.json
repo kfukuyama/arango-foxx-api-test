@@ -1,0 +1,13 @@
+{
+    "parserOptions": {
+        "ecmaVersion": 6
+    },
+    "extends": "google",
+    "rules": {
+        "padded-blocks": "off",
+        "max-len": "warn",
+        "require-jsdoc": "off",
+        "valid-jsdoc": "off",
+        "no-unused-vars": "off"
+    }
+}
